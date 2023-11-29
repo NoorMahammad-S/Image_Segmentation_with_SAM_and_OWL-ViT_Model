@@ -1,3 +1,5 @@
+# ```                AI & ML Project                ```
+
 # Image_Segmentation_with_SAM_and_OWL-ViT_Model
 This project contains a Python script for image processing using Meta AI's SAM (Sample Augmentation Module) for segmentation and OWL-ViT (Object and Word Learning Vision Transformer) for object detection. The script takes an input image, performs segmentation using SAM, and then detects objects using OWL-ViT.
 
